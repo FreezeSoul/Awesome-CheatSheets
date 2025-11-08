@@ -10,9 +10,9 @@ $APPEALS方法是IBM在IPD总结和分析出来的客户需求分析的一种方
 
 # 分析维度
 
-![$APPEALS 要素描述](https://assets.ng-tech.icu/item/20230616211516.png)
+![$APPEALS 要素描述](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230616211516.png)
 
-![$APPEALS 分析维度](https://assets.ng-tech.icu/item/20230616211423.png)
+![$APPEALS 分析维度](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230616211423.png)
 
 ## $ 价格
 
@@ -66,4 +66,4 @@ $APPEALS方法是IBM在IPD总结和分析出来的客户需求分析的一种方
 
 $APPEALS 雷达图分析一般包括 3 方面数据对比——客户期望值、竞争对手得分、自身产品得分，以此判断各维度要素实际达到的标准，未达到标准的要素后续产品开发中可重点关注。
 
-![雷达图分析](https://assets.ng-tech.icu/item/20230616211732.png)
+![雷达图分析](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230616211732.png)
